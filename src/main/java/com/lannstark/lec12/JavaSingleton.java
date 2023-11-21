@@ -1,6 +1,6 @@
 package com.lannstark.lec12;
 
-public class JavaSingleton {
+public class  JavaSingleton {
 
   private static final JavaSingleton INSTANCE = new JavaSingleton();
 
