@@ -16,4 +16,13 @@ public enum JavaCountry {
     return code;
   }
 
+  private static void handleCountry(JavaCountry country) {
+    if (country == JavaCountry.KOREA) {
+      // 로직처리
+    }
+    if (country == JavaCountry.AMERICA) {
+      // 로직처리
+    }
+  }
+
 }
